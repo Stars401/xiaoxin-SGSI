@@ -1,14 +1,14 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V12.5.12.0.RKJCNXM/ares_images_V12.5.12.0.RKJCNXM_20211129.0000.00_11.0_cn_e8cc69b884.tgz",
-  "rom_name": "update.zip",
-  "pack_sgsi": "SGSI.zip",
-  "make_type": "AB",
+  "rom_url": "https://lzxyun.oss-cn-guangzhou.aliyuncs.com/ROM/MIUI13.0.1.0%20for%20XiaoMi%208.zip",
+  "rom_name": "MIUI13.0.1.0 for XiaoMi 8.zip.zip",
+  "pack_sgsi": "XIAOMI 8-SGSI.zip",
+  "make_type": "A",
   "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
-  "upload_transfer": true,
-  "upload_release": false,
+  "upload_transfer": false,
+  "upload_release": true,
   "use_7zip": true,
   "use_zip": false
 }
